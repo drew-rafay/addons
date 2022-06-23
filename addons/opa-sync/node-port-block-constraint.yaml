@@ -12,6 +12,7 @@ spec:
       - "kube-system"
       - "rafay-infra"
       - "rafay-system"
+      - "envoy"
   parameters:
     repos:
       - "registry.rafay.us"
