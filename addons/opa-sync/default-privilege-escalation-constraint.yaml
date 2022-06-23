@@ -13,4 +13,3 @@ spec:
       - "kube-system"
       - "rafay-infra"
       - "rafay-system"
-      - "envoy"
