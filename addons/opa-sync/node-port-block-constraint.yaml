@@ -13,6 +13,7 @@ spec:
       - "rafay-infra"
       - "rafay-system"
       - "envoy"
+      - "kong"
   parameters:
     repos:
       - "registry.rafay.us"
